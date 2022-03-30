@@ -1,3 +1,9 @@
+# Connect OP-1
+
+This is a fork of https://github.com/xmacex/connect-opz. Replacing the functionality to connect to OPZ to OP1, instead. There are no major contribution to the original code except just replacing the device reference to OP1 (2367:0004).
+
+
+
 # Connect OP-Z
 
 Connect OP-Z as an audio device on norns.
